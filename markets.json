@@ -18,6 +18,24 @@
       "whatsapp": ["01122270102", "20123456789"],
       "delivery": true
     },
+     {
+      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+      "name": "سوبر ماركت لافندر",
+      "zone": "زوون 11",
+      "location": "https://maps.app.goo.gl/zLsC4jiDFswqwY8K8",
+      "phone": ["01554494051","01080146029","01281118595","01114234367"],
+      "whatsapp": ["01554494051","01080146029","01281118595","01114234367"],
+      "delivery": true
+    },
+    {
+      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+      "name": "سوبر ماركت بيور",
+      "zone": "زوون 11",
+      "location": "https://maps.app.goo.gl/LyzWoJuUrXc27dF49",
+      "phone": ["01020599081","01144197908","01091974197","01128489325"],
+      "whatsapp": ["01020599081","01144197908","01091974197","01128489325"],
+      "delivery": true
+    },
     {
       "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
       "name": "سوبر ماركت جاردينيا",
@@ -27,5 +45,6 @@
       "whatsapp": ["01141602649"],
       "delivery": true
     }
+    
   ]
 }
