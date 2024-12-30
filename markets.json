@@ -1,4 +1,3 @@
-
 {
   "markets": [
     {
@@ -17,6 +16,60 @@
       "location": "https://maps.app.goo.gl/XgmFyxD13xDdtW2k7",
       "phone": ["01141602649"],
       "whatsapp": ["01141602649"],
+      "delivery": true
+    },
+    {
+      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+      "name": "سوبر ماركت حياه",
+      "zone": "زوون 2",
+      "location": "https://maps.app.goo.gl/ZD926BpjwX3sivAN8",
+      "phone": ["01122270102", "01122334455"],
+      "whatsapp": ["01122270102", "20123456789"],
+      "delivery": true
+    },
+    {
+      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+      "name": "سوبر ماركت كيان",
+      "zone": "زوون 4",
+      "location": "https://goo.gl/maps/2aNwU5HbVvGLXegS7",
+      "phone": ["01030349846"],
+      "whatsapp": ["201030349846"],
+      "delivery": true
+    },
+    {
+      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+      "name": "سوبر ماركت البرنس",
+      "zone": "زوون 4",
+      "location": "https://maps.app.goo.gl/XgmFyxD13xDdtW2k7",
+      "phone": ["01141602649"],
+      "whatsapp": ["01141602649"],
+      "delivery": true
+    },
+    {
+      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+      "name": "سوبر ماركت جاردينيا",
+      "zone": "زوون 5",
+      "location": "https://maps.app.goo.gl/XgmFyxD13xDdtW2k7",
+      "phone": ["01141602649"],
+      "whatsapp": ["01141602649"],
+      "delivery": true
+    },
+    {
+      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+      "name": "سوبر ماركت لافندر",
+      "zone": "زوون 11",
+      "location": "https://maps.app.goo.gl/zLsC4jiDFswqwY8K8",
+      "phone": ["01554494051","01080146029","01281118595","01114234367"],
+      "whatsapp": ["01554494051","01080146029","01281118595","01114234367"],
+      "delivery": true
+    },
+    {
+      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+      "name": "سوبر ماركت بيور",
+      "zone": "زوون 11",
+      "location": "https://maps.app.goo.gl/LyzWoJuUrXc27dF49",
+      "phone": ["01020599081","01144197908","01091974197","01128489325"],
+      "whatsapp": ["01020599081","01144197908","01091974197","01128489325"],
       "delivery": true
     }
   ]
