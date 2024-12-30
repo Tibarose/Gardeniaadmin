@@ -1,1 +1,23 @@
 
+{
+  "markets": [
+    {
+      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+      "name": "سوبر ماركت حياه",
+      "zone": "زوون 2",
+      "location": "https://maps.app.goo.gl/ZD926BpjwX3sivAN8",
+      "phone": ["01122270102", "01122334455"],
+      "whatsapp": ["01122270102", "20123456789"],
+      "delivery": true
+    },
+    {
+      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+      "name": "سوبر ماركت جاردينيا",
+      "zone": "زوون 5",
+      "location": "https://maps.app.goo.gl/XgmFyxD13xDdtW2k7",
+      "phone": ["01141602649"],
+      "whatsapp": ["01141602649"],
+      "delivery": true
+    }
+  ]
+}
