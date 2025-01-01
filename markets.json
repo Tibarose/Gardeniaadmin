@@ -7,7 +7,7 @@
       "location": "https://maps.app.goo.gl/zLsC4jiDFswqwY8K8",
       "phone": ["01554494051","01080146029","01281118595","01114234367"],
       "whatsapp": ["201080146029","201114234367"],
-      "delivery": true
+      "delivery": true,
       "delivery_fee": "5 جم"  
 
     },
@@ -19,7 +19,7 @@
       "location": "https://maps.app.goo.gl/LyzWoJuUrXc27dF49",
       "phone": ["01020599081","01144197908","01091974197","01128489325"],
       "whatsapp": ["201020599081","201144197908","201091974197","201128489325"],
-      "delivery": true
+      "delivery": true,
       "delivery_fee": "5 جم"  
 
     },
@@ -31,7 +31,7 @@
       "location": "https://maps.app.goo.gl/HKTNYjiRWHReYzbD7",
       "phone": ["01141602649", "01064265134", "01032914927" ,"01147081043"],
       "whatsapp": [ "201064265134"],
-      "delivery": true
+      "delivery": true,
       "delivery_fee": "5 جم"  
 
     },
@@ -43,7 +43,7 @@
       "location": "https://maps.app.goo.gl/Rq9kR2mP8yompWCT7",
       "phone": ["01030349846", "01060551400"],
       "whatsapp": ["201120125011"],
-      "delivery": true
+      "delivery": true,
       "delivery_fee": "5 جم"  
 
     },
@@ -55,7 +55,7 @@
       "location": "https://maps.app.goo.gl/XgmFyxD13xDdtW2k7",
       "phone": ["01126489961","01070291000","01070293000"],
       "whatsapp": [],
-      "delivery": true
+      "delivery": true,
       "delivery_fee": "5 جم"  
 
     }
