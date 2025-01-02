@@ -1,84 +1,141 @@
 {
-  "markets": [
-    {
-      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
-      "name": "سوبر ماركت لافندر",
-      "zone": "زوون 11",
-      "location": "https://maps.app.goo.gl/zLsC4jiDFswqwY8K8",
-      "phone": ["01554494051", "01080146029", "01281118595", "01114234367"],
-      "whatsapp": ["201080146029", "201114234367"],
-      "delivery": true,
-      "delivery_fee": "EGP 5"
-    },
-    {
-      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
-      "name": "سوبر ماركت بيور",
-      "zone": "زوون 11",
-      "location": "https://maps.app.goo.gl/LyzWoJuUrXc27dF49",
-      "phone": ["01020599081", "01144197908", "01091974197", "01128489325"],
-      "whatsapp": ["201020599081", "201144197908", "201091974197"],
-      "delivery": true,
-      "delivery_fee": "غير محدد"
-    },
-    {
-      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
-      "name": "سوبر ماركت جمله ماركت",
-      "zone": "زوون 1",
-      "location": "https://maps.app.goo.gl/ukrXP24GFrni45SW6",
-      "phone": ["01111955349", "01111955238"],
-      "whatsapp": ["201111955349", "201111955238"],
-      "delivery": true,
-      "delivery_fee": "غير محدد"
-    },
-    {
-      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
-      "name": "سوبر ماركت اسواق الجمله",
-      "zone": "زوون 8",
-      "location": "https://maps.app.goo.gl/kFhY5Cx652Q1LS529",
-      "phone": ["01080071425", "01154903132", "01154904115"],
-      "whatsapp": ["201080071425", "201154903132", "201154904115"],
-      "delivery": true,
-      "delivery_fee": "غير محدد"
-    },
-    {
-      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
-      "name": "سوبر ماركت البان طبيعى",
-      "zone": "زوون 8",
-      "location": "https://maps.app.goo.gl/cRb2NcQeCzFD173X6",
-      "phone": ["01023319230", "01112029722", "01227103030", "01112029262"],
-      "whatsapp": ["201023319230", "201112029722", "201227103030", "201112029262"],
-      "delivery": true,
-      "delivery_fee": "غير محدد"
-    },
-    {
-      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
-      "name": "سوبر ماركت البرنس",
-      "zone": "زوون 4",
-      "location": "https://maps.app.goo.gl/HKTNYjiRWHReYzbD7",
-      "phone": ["01141602649", "01064265134", "01032914927", "01147081043"],
-      "whatsapp": ["201064265134"],
-      "delivery": true,
-      "delivery_fee": "غير محدد"
-    },
-    {
-      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
-      "name": "سوبر ماركت كيان",
-      "zone": "زوون 4",
-      "location": "https://maps.app.goo.gl/Rq9kR2mP8yompWCT7",
-      "phone": ["01030349846", "01060551400"],
-      "whatsapp": ["201120125011"],
-      "delivery": true,
-      "delivery_fee": "غير محدد"
-    },
-    {
-      "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
-      "name": "سوبر ماركت جاردينيا",
-      "zone": "زوون 5",
-      "location": "https://maps.app.goo.gl/XgmFyxD13xDdtW2k7",
-      "phone": ["01126489961", "01070291000", "01070293000"],
-      "whatsapp": [],
-      "delivery": true,
-      "delivery_fee": "غير محدد"
-    }
-  ]
+    "markets": [
+        {
+            "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+            "name": "سوبر ماركت لافندر",
+            "zone": "زوون 11",
+            "location": "https://maps.app.goo.gl/zLsC4jiDFswqwY8K8",
+            "phone": [
+                "01554494051",
+                "01080146029",
+                "01281118595",
+                "01114234367"
+            ],
+            "whatsapp": [
+                "201080146029",
+                "201114234367"
+            ],
+            "delivery": true,
+            "delivery_fee": "EGP 5"
+        },
+        {
+            "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+            "name": "سوبر ماركت بيور",
+            "zone": "زوون 11",
+            "location": "https://maps.app.goo.gl/LyzWoJuUrXc27dF49",
+            "phone": [
+                "01020599081",
+                "01144197908",
+                "01091974197",
+                "01128489325"
+            ],
+            "whatsapp": [
+                "201020599081",
+                "201144197908",
+                "201091974197"
+            ],
+            "delivery": true,
+            "delivery_fee": "غير محدد"
+        },
+        {
+            "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+            "name": "سوبر ماركت جمله ماركت",
+            "zone": "زوون 1",
+            "location": "https://maps.app.goo.gl/ukrXP24GFrni45SW6",
+            "phone": [
+                "01111955349",
+                "01111955238"
+            ],
+            "whatsapp": [
+                "201111955349",
+                "201111955238"
+            ],
+            "delivery": true,
+            "delivery_fee": "غير محدد"
+        },
+        {
+            "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+            "name": "سوبر ماركت اسواق الجمله",
+            "zone": "زوون 8",
+            "location": "https://maps.app.goo.gl/kFhY5Cx652Q1LS529",
+            "phone": [
+                "01080071425",
+                "01154903132",
+                "01154904115"
+            ],
+            "whatsapp": [
+                "201080071425",
+                "201154903132",
+                "201154904115"
+            ],
+            "delivery": true,
+            "delivery_fee": "غير محدد"
+        },
+        {
+            "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+            "name": "سوبر ماركت البان طبيعى ",
+            "zone": "زوون 8",
+            "location": "https://maps.app.goo.gl/cRb2NcQeCzFD173X6",
+            "phone": [
+                "01023319230",
+                "01112029722",
+                "01227103030",
+                "01112029262"
+            ],
+            "whatsapp": [
+                "201023319230",
+                "201112029722",
+                "201227103030",
+                "201112029262"
+            ],
+            "delivery": true,
+            "delivery_fee": "غير محدد"
+        },
+        {
+            "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+            "name": "سوبر ماركت البرنس",
+            "zone": "زوون 4",
+            "location": "https://maps.app.goo.gl/HKTNYjiRWHReYzbD7",
+            "phone": [
+                "01141602649",
+                "01064265134",
+                "01032914927",
+                "01147081043"
+            ],
+            "whatsapp": [
+                "201064265134"
+            ],
+            "delivery": true,
+            "delivery_fee": "غير محدد"
+        },
+        {
+            "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+            "name": "سوبر ماركت كيان",
+            "zone": "زوون 4",
+            "location": "https://maps.app.goo.gl/Rq9kR2mP8yompWCT7",
+            "phone": [
+                "01030349846",
+                "01060551400"
+            ],
+            "whatsapp": [
+                "201120125011"
+            ],
+            "delivery": true,
+            "delivery_fee": "غير محدد"
+        },
+        {
+            "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
+            "name": "سوبر ماركت جاردينيا",
+            "zone": "زوون 5",
+            "location": "https://maps.app.goo.gl/XgmFyxD13xDdtW2k7",
+            "phone": [
+                "01126489961",
+                "01070291000",
+                "01070293000"
+            ],
+            "whatsapp": [],
+            "delivery": true,
+            "delivery_fee": "غير محدد"
+        }
+    ]
 }
