@@ -16,14 +16,14 @@
       "zone": "زوون 11",
       "location": "https://maps.app.goo.gl/LyzWoJuUrXc27dF49",
       "phone": ["01020599081", "01144197908", "01091974197", "01128489325"],
-      "whatsapp": ["201020599081", "201144197908", "201091974197", ],
+      "whatsapp": ["201020599081", "201144197908", "201091974197"],
       "delivery": true,
       "delivery_fee": "غير محدد"
     },
     {
       "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
       "name": "سوبر ماركت جمله ماركت",
-      "zone": "زوون 1", 
+      "zone": "زوون 1",
       "location": "https://maps.app.goo.gl/ukrXP24GFrni45SW6",
       "phone": ["01111955349", "01111955238"],
       "whatsapp": ["201111955349", "201111955238"],
@@ -40,13 +40,13 @@
       "delivery": true,
       "delivery_fee": "غير محدد"
     },
-     {
+    {
       "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
-      "name": "سوبر ماركت البان طبيعى ",
+      "name": "سوبر ماركت البان طبيعى",
       "zone": "زوون 8",
       "location": "https://maps.app.goo.gl/cRb2NcQeCzFD173X6",
       "phone": ["01023319230", "01112029722", "01227103030", "01112029262"],
-      "whatsapp": ["201023319230", "201112029722", "201227103030, "201112029262",],
+      "whatsapp": ["201023319230", "201112029722", "201227103030", "201112029262"],
       "delivery": true,
       "delivery_fee": "غير محدد"
     },
