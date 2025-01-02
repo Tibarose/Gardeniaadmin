@@ -8,7 +8,7 @@
       "phone": ["01554494051", "01080146029", "01281118595", "01114234367"],
       "whatsapp": ["201080146029", "201114234367"],
       "delivery": true,
-      "delivery_fee": "EGP 5 "
+      "delivery_fee": "EGP 5"
     },
     {
       "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
@@ -20,17 +20,17 @@
       "delivery": true,
       "delivery_fee": "غير محدد"
     },
-     {
+    {
       "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
       "name": "سوبر ماركت جمله ماركت",
       "zone": "زوون 11",
       "location": "https://maps.app.goo.gl/LyzWoJuUrXc27dF49",
-      "phone": ["01111955349", "01111955238",],
-      "whatsapp": ["201111955349", "201111955238""],
+      "phone": ["01111955349", "01111955238"],
+      "whatsapp": ["201111955349", "201111955238"],
       "delivery": true,
       "delivery_fee": "غير محدد"
     },
-      {
+    {
       "photo": "https://cdn-icons-png.freepik.com/512/3700/3700434.png",
       "name": "سوبر ماركت اسواق الجمله",
       "zone": "زوون 11",
